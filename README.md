@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ridhampatel2k4@gmail.com**
 
-- ⚡ Fun fact **I am learner!**
+- ⚡ Fun fact **I Don't Like Social Media!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
