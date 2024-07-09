@@ -5,11 +5,11 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **Full Stack Development with Cloud Applications**
 
 - 👨‍💻 All of my projects are available at [github.com/ridh21](github.com/ridh21)
 
-- 💬 Ask me about **React, Tailwind CSS**
+- 💬 Ask me about **React, NextJS, GSAP, Framer Motion**
 
 - 📫 How to reach me **ridhampatel2k4@gmail.com**
 
