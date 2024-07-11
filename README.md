@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ridham Patel</h1>
-<h3 align="center">A passionate IT Engineering Student from India</h3>
+![ridhamgithub](https://github.com/ridh21/ridh21/assets/127187827/4f5904b0-3218-46a7-979f-0ab12ed53069)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridh21&label=Profile%20views&color=0e75b6&style=flat" alt="ridh21" /> </p>
 
