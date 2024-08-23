@@ -27,6 +27,10 @@
   <a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/-Prisma-000000?style=flat&logo=prisma" alt="Prisma"></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql" alt="PostgreSQL"></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql" alt="MySQL"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" alt="Python"></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask" alt="Flask"></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-000000?style=flat&logo=Amazon Web Services" alt="Amazon Web Services"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" alt="Docker"></a>
 </p>
 
 ## 📫 Contact Me
