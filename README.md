@@ -20,8 +20,15 @@
     <th>Technologies</th>
   </tr>
   <tr>
-    <td><strong>Frontend</strong></td>
+    <td><strong>UI/UX</strong></td>
     <td align="">
+      <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma" alt="Figma"></a>
+<!--       <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/-Canva-000000?style=flat&logo=canva" alt="Canva"></a> -->
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript"></a>
       <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" alt="TypeScript"></a>
       <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" alt="React"></a>
