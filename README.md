@@ -65,6 +65,29 @@
   </tr>
 </table>
 
+## 🏆 Hackathons
+
+<table>
+  <tr>
+    <th>Hackathon</th>
+    <th>Type</th>
+    <th>Position</th>
+    <th>Problem Statement</th>
+  </tr>
+  <tr>
+    <td>SSIP New India Vibrant Hackathon 2023</td>
+    <td>State Level</td>
+    <td>3rd</td>
+    <td>NischayJyot : Customer Grievance Portal for One Nation One Challan</td>
+  </tr>
+  <tr>
+    <td>Smart India Hackathon 2023</td>
+    <td>National Level</td>
+    <td>Finalist</td>
+    <td>CeaseDrop : Student Dropout Analysis Platform for Schools</td>
+  </tr>
+</table>
+
 ## 📫 Contact Me
 
 <p>
