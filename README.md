@@ -94,3 +94,5 @@
   <a href="https://www.linkedin.com/in/ridhampatel2k4"><img src="https://img.shields.io/badge/-000000?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://x.com/ridhampatel2k4"><img src="https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white" alt="X.com"></a>
 </p>
+
+![snake gif](https://github.com/ridh21/ridh21/blob/output/github-snake-dark.svg)
