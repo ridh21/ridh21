@@ -86,6 +86,12 @@
     <td>Finalist</td>
     <td>CeaseDrop : Student Dropout Analysis Platform for Schools</td>
   </tr>
+  <tr>
+    <td>Smart India Hackathon 2024</td>
+    <td>National Level</td>
+    <td>Finalist</td>
+    <td>VidVigilante : Advance Deepfake Detection Platform</td>
+  </tr>
 </table>
 
 ## 📫 Contact Me
