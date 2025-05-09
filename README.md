@@ -59,7 +59,7 @@
   <tr>
     <td><strong>DevOps</strong></td>
     <td align="">
-      <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-000000?style=flat&logo=Amazon Web Services" alt="Amazon Web Services"></a>
+      <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices" alt="Amazon Web Services"></a>
       <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" alt="Docker"></a>
     </td>
   </tr>
