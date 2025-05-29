@@ -7,12 +7,16 @@
     <li><strong>Currently pursuing BE in Information Technology (2022-2026)</strong></li>
     <li><strong>Full stack developer, proficient in MERN Stack & Next.js with JavaScript, TypeScript</strong></li>
     <li><strong>Learning GSAP, Framer Motion, and ThreeJS</strong></li>
-    <li><strong>Webmaster at <a href="https://ieee-ldrpitr-sb.vercel.app/">IEEE LDRP-ITR Student Branch</a></strong></li>
+    <li><strong>Former Webmaster at <a href="https://ieee-ldrpitr-sb.vercel.app/">IEEE LDRP-ITR Student Branch</a></strong></li>
     <li><strong>For Inquiries: <a href="mailto:ridhampatel2k4@gmail.com">ridhampatel2k4@gmail.com</a></strong></li>
   </ul>
 </p>
 
+> 🚨 **Note:** Most of my major projects are in private repositories due to ongoing development or confidentiality.  
+> 📩 If you're a recruiter or interested in viewing them, feel free to [reach out](mailto:ridhampatel2k4@gmail.com). I'm happy to share upon request.
+
 ## 👨‍💻 Tech Stack
+
 
 <table>
   <tr>
@@ -96,9 +100,14 @@
 
 ## 📫 Contact Me
 
-<p>
-  <a href="https://www.linkedin.com/in/ridhampatel2k4"><img src="https://img.shields.io/badge/-000000?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://x.com/ridhampatel2k4"><img src="https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white" alt="X.com"></a>
+<p align="left"">
+
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/ridhampatel2k4)
+  &emsp;
+[![X](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg)](https://www.x.com/ridhampatel2k4)
+
 </p>
+
+
 
 ![snake gif](https://github.com/ridh21/ridh21/blob/output/github-snake-dark.svg)
