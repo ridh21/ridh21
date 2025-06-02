@@ -1,3 +1,5 @@
+<span align="center">![Image](https://github.com/user-attachments/assets/bd9739db-a1a6-4c25-9c92-6a9277c37e63)</span>
+
 <h1 align="center">🇮🇳 Ridham Patel</h1>
 
 ## 👋🏻 Glad to see you here!
@@ -108,6 +110,6 @@
 
 </p>
 
+<span align="center">![snake gif](https://github.com/ridh21/ridh21/blob/output/github-snake-dark.svg)</span>
 
 
-![snake gif](https://github.com/ridh21/ridh21/blob/output/github-snake-dark.svg)
