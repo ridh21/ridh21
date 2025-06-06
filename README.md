@@ -1,5 +1,3 @@
-<span align="center">![Image](https://github.com/user-attachments/assets/bd9739db-a1a6-4c25-9c92-6a9277c37e63)</span>
-
 <h1 align="center">🇮🇳 Ridham Patel</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ridh21&style=flat-square&color=blue" alt="Profile views"/>
