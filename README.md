@@ -43,6 +43,7 @@
       <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/-Tailwind CSS-000000?style=flat&logo=tailwind-css" alt="Tailwind CSS"></a>
       <a href="https://greensock.com/gsap/"><img src="https://img.shields.io/badge/-GSAP-000000?style=flat&logo=greensock" alt="GSAP"></a>
       <a href="https://www.framer.com/motion/"><img src="https://img.shields.io/badge/-Framer%20Motion-000000?style=flat&logo=framer" alt="Framer Motion"></a>
+      <a href="#"><img src="https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress" alt="WordPress"></a>
     </td>
   </tr>
   <tr>
@@ -52,6 +53,7 @@
       <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" alt="Express.js"></a>
       <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask" alt="Flask"></a>
       <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" alt="Python"></a>
+      <a href="#"><img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php" alt="PHP"></a>
     </td>
   </tr>
   <tr>
