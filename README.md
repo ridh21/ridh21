@@ -3,6 +3,12 @@
   <img src="https://komarev.com/ghpvc/?username=ridh21&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
+<div align="center">
+  
+![snake gif](https://github.com/ridh21/ridh21/blob/output/github-snake-dark.svg)
+
+</div>
+
 ## 👋🏻 Glad to see you here!
 
 <p>
@@ -103,6 +109,24 @@
   </tr>
 </table>
 
+
+
+## Github Stats
+<div align="center">
+
+
+![ridh21's Stats](https://github-readme-stats.vercel.app/api?username=ridh21&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+ &emsp;
+![ridh21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ridh21&theme=tokyonight&hide_border=false)
+
+<div align="center">
+
+![ridh21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ridh21&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+</div>
+
+</div>
+
 ## 📫 Contact Me
 
 <p align="left"">
@@ -113,6 +137,6 @@
 
 </p>
 
-<span align="center">![snake gif](https://github.com/ridh21/ridh21/blob/output/github-snake-dark.svg)</span>
+
 
 
