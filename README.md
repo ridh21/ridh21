@@ -111,21 +111,19 @@
 
 
 
-## Github Stats
-<div align="center">
+## 📊 Github Stats
 
 
-![ridh21's Stats](https://github-readme-stats.vercel.app/api?username=ridh21&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
- &emsp;
-![ridh21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ridh21&theme=tokyonight&hide_border=false)
 
-<div align="center">
+| ![ridh21's Stats](https://github-readme-stats.vercel.app/api?username=ridh21&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) | ![ridh21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ridh21&theme=tokyonight&hide_border=false) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![ridh21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ridh21&theme=tokyonight&show_icons=true&hide_border=false&layout=compact) |                                                              |                 |
 
-![ridh21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ridh21&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-</div>
 
-</div>
+ [![Ridham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ridh21&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+
+
 
 ## 📫 Contact Me
 
