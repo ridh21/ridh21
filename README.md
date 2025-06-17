@@ -115,7 +115,7 @@
 
 
 
-| ![ridh21's Stats](https://github-readme-stats.vercel.app/api?username=ridh21&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) | ![ridh21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ridh21&theme=tokyonight&hide_border=false) |
+| ![ridh21's Stats](https://github-readme-stats.vercel.app/api?username=ridh21&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) | <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ridh21&theme=tokyonight" alt="GitHub Streak" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![ridh21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ridh21&theme=tokyonight&show_icons=true&hide_border=false&layout=compact) |                                                              |                 |
 
