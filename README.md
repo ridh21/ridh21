@@ -3,11 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=ridh21&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
-<div align="center">
-  
-![snake gif](https://github.com/ridh21/ridh21/blob/output/github-snake-dark.svg)
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fridh2111219.png?alt=media)
 
-</div>
 
 ## 👋🏻 Glad to see you here!
 
@@ -134,6 +131,12 @@
 [![X](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg)](https://www.x.com/ridhampatel2k4)
 
 </p>
+
+<div align="center">
+  
+![snake gif](https://github.com/ridh21/ridh21/blob/output/github-snake-dark.svg)
+
+</div>
 
 
 
