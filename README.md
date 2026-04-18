@@ -1,6 +1,3 @@
-<img width="6400" height="1600" alt="Image" src="https://github.com/user-attachments/assets/08673fe9-8f01-4125-8371-ee84c95a7bfa" />
-
-# Ridham Patel
 
 Hi, I'm an **Associate Software Engineer at OpenXcell**. My expertise lies in designing, building, and deploying scalable, end-to-end machine learning systems. I'm passionate about transforming ML models from prototypes into robust, production-grade applications.
 
