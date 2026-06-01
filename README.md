@@ -63,10 +63,10 @@ Recognized as a national finalist in both the March and June 2025 editions.
 <table align="center">
 <tr align="center">
 <td>
-<img src="./assets/gate-2026.png" alt="GATE DA 2026 Qualified" />
+<img src="./assets/gate-2026.png" alt="GATE DA 2026 Qualified" width="150" height="200" />
 </td>
 <td>
-<img src="./assets/aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" />
+<img src="./assets/aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="200" height="" />
 </td>
 </tr>
 <tr align="center">
