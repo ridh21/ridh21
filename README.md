@@ -101,3 +101,12 @@ I'm always open to research collaborations, interesting conversations, and new c
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:ridhampatel2k4@gmail.com)
 
 </div>
+
+<div align="center">
+  <a href="https://commit-history.com/ridh21">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/ridh21?theme=dark" />
+      <img alt="ridh21's commit history" src="https://commit-history.com/embed/ridh21" />
+    </picture>
+  </a>
+</div>
