@@ -38,6 +38,6 @@ My research interests include **Face Recognition, Machine Unlearning, Federated 
 ## Links
 
 [LinkedIn](https://www.linkedin.com/in/ridhampatel2k4) ·
-[Portfolio](https://ridhfolio.vercel.app) ·
+[Portfolio](https://ridh21.github.io) ·
 [GitHub](https://github.com/ridh21) ·
 [Email](mailto:ridhampatel2k4@gmail.com)
