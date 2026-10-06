@@ -27,13 +27,14 @@ My research interests include **Face Recognition, Machine Unlearning, Federated 
 
 * Smart India Hackathon 2023, Finalist
 * Smart India Hackathon 2024, Finalist
-* SSIP New India Vibrant Hackathon 2023, Winner
-* Odoo × Gujarat Vidyapith Hackathon 2025, Finalist
-* Odoo × IIT Gandhinagar Hackathon 2025, Finalist
-* Odoo × Gujarat Vidyapith Hackathon 2026, Runner-Up
-* Odoo × Kadi Sarva Vishwavidyalaya Hackathon 2026, Runner-Up
-* Odoo Hackathon 2026, Finalist
+* SSIP New India Vibrant Gujarat State Hackathon 2023, Winner
+* Odoo × Gujarat Vidyapith National Hackathon 2025, Finalist
+* Odoo × IIT Gandhinagar National Hackathon 2025, Finalist
+* Odoo × Gujarat Vidyapith National Hackathon 2026, Runner-Up
+* Odoo × Kadi Sarva Vishwavidyalaya National Hackathon 2026, Runner-Up
+* Odoo National Hackathon 2026, Finalist
 * Meta × PyTorch × OpenEnv National Hackathon 2026, Finalist
+* Paytm AI National Hackathon 2026, Finalist
 
 ## Links
 
