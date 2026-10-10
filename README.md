@@ -34,6 +34,7 @@ My research interests include **Face Recognition, Machine Unlearning, Federated 
 * Odoo × Kadi Sarva Vishwavidyalaya National Hackathon 2026, Runner-Up
 * Odoo National Hackathon 2026, Finalist
 * Meta × PyTorch × OpenEnv National Hackathon 2026, Finalist
+* Amazon Machine Learning Challenge 2026, Top 390 Rank from 30,000 Participant Teams across Nation.
 * Paytm AI National Hackathon 2026, Finalist
 
 ## Links
