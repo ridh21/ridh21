@@ -12,16 +12,37 @@ My research interests include **Face Recognition, Machine Unlearning, Federated 
 
 ## Research & Publications
 
-1. **Towards Robust Classroom Attendance: A Comprehensive Evaluation of Face Detection and Recognition Models**
-   Accepted at **IEEE CICON 2026**, Karnavati University, India.
+<sub>C = Conference · J = Journal · D = Dataset · P = Patent · † equal contribution</sub>
 
-2. **Ecosmart Dustbin for Educational Institution, An IoT-Based Waste Segregation System and Method Thereof**
-   **Indian Patent, Accepted**
-   Application No. `202521111515`
-   [Patent Status](https://iprsearch.ipindia.gov.in/PatentSearch/PatentSearch/ViewApplicationStatus)
+**[C1] Towards Robust Classroom Attendance: A Comprehensive Evaluation of Face Detection and Recognition Models**<br>
+Himani Trivedi, Hiren Patel, **Ridham Patel**, Krutika Patel, Nancy Patel<br>
+*IEEE CICON 2026, Karnavati University* · Accepted · [Paper](https://arxiv.org/abs/2609.22750)
 
-3. **FedDETR for Privacy Preserving K-Means Based Helmet Detection of Two-Wheeler Riders**
-   Under Peer Review, **Springer Nature, Discover Applied Sciences**
+**[J1] FedRevoke: Client-Level Unlearning of Malicious Districts in Lightweight Federated Automatic Number Plate Recognition**<br>
+**Ridham Patel**, Himani Trivedi, Chrisha Dabhi, Shivangi Surati, Bela Shrimali<br>
+*IEEE Open Journal of Intelligent Transportation Systems* · Under review
+
+**[J2] FedDETR for Privacy Preserving K Means Based Helmet Detection of Two Wheeler Riders**<br>
+Kandarp Gajjar, Nancy Patel, **Ridham Patel**, Krutika Patel, Chrisha Dabhi, Himani Trivedi, Mahesh Goyani, Chintan Bhatt<br>
+*Springer Nature* · Under review
+
+**[J3] Limited-Sample Face Recognition through Projection-Efficient Inter-Patch Interaction and Dynamic Patch Reweighting under Real-World Occlusions for Classroom Attendance**<br>
+Himani Trivedi, Hiren Patel, Dhruvkumar Patel, Kovil Savaj, Prince Malani, Jay Patel, **Ridham Patel**, Krutika Patel, Nancy Patel<br>
+*Elsevier, Expert Systems with Applications* · Under review
+
+**[J4] Aggregate-Constrained Parcel-Level Yield Estimation from Sparse Single-Polarization X-Band SAR Time Series with Statistical Yield Anchors**<br>
+Jenish Sorathiya†, Yash Sorathiya†, Mahi Parmar†, Krutika Patel†, Nancy Patel†, **Ridham Patel**†, Himani Trivedi<br>
+*Springer Nature* · Under review
+
+**[D1] EdgeVision Dataset**<br>
+Kandarp Gajjar, Nancy Patel, **Ridham Patel**, Krutika Patel, Chrisha Dabhi, Himani Trivedi, Mahesh Goyani, Chintan Bhatt<br>
+*Mendeley Data* · 20k+ downloads · [Dataset](https://data.mendeley.com/datasets/j82bnw7gsr/1)
+
+**[P1] Ecosmart Dustbin for Educational Institution, An IoT-Based Waste Segregation System and Method Thereof**<br>
+Nancy Patel, Kandarp Gajjar, **Ridham Patel**, Krutika Patel, Himani Trivedi<br>
+*Indian Patent, Application No. 202521111515* · Under examination · [Status](https://iprsearch.ipindia.gov.in/PatentSearch/PatentSearch/ViewApplicationStatus)
+
+Full list on [Google Scholar](https://scholar.google.com/citations?user=jjLiEoYAAAAJ).
 
 ## Hackathon Achievements
 
