@@ -27,7 +27,7 @@ Kandarp Gajjar, Nancy Patel, **Ridham Patel**, Krutika Patel, Chrisha Dabhi, Him
 *Springer Nature* · Under review
 
 **[J3] Limited-Sample Face Recognition through Projection-Efficient Inter-Patch Interaction and Dynamic Patch Reweighting under Real-World Occlusions for Classroom Attendance**<br>
-Himani Trivedi, Hiren Patel, Dhruvkumar Patel, Kovil Savaj, Prince Malani, Jay Patel, **Ridham Patel**, Krutika Patel, Nancy Patel<br>
+Himani Trivedi, Hiren Patel, **Ridham Patel**, Krutika Patel, Nancy Patel, Dhruvkumar Patel, Kovil Savaj, Prince Malani, Jay Patel<br>
 *Elsevier, Expert Systems with Applications* · Under review
 
 **[J4] Aggregate-Constrained Parcel-Level Yield Estimation from Sparse Single-Polarization X-Band SAR Time Series with Statistical Yield Anchors**<br>
