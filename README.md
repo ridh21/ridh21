@@ -19,7 +19,7 @@ Himani Trivedi, Hiren Patel, **Ridham Patel**, Krutika Patel, Nancy Patel<br>
 *IEEE CICON 2026, Karnavati University* · Accepted · [Paper](https://arxiv.org/abs/2609.22750)
 
 **[J1] FedRevoke: Client-Level Unlearning of Malicious Districts in Lightweight Federated Automatic Number Plate Recognition**<br>
-**Ridham Patel**, Himani Trivedi, Chrisha Dabhi, Shivangi Surati, Bela Shrimali<br>
+**Ridham Patel**, Himani Trivedi, Chrish Dabhi, Shivangi Surati, Bela Shrimali<br>
 *IEEE Open Journal of Intelligent Transportation Systems* · Under review
 
 **[J2] FedDETR for Privacy Preserving K Means Based Helmet Detection of Two Wheeler Riders**<br>
